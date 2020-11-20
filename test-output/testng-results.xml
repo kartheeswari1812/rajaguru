@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105299" started-at="2020-11-07T17:59:08Z" finished-at="2020-11-07T18:00:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105299" started-at="2020-11-07T17:59:08Z" finished-at="2020-11-07T18:00:54Z">
+      <class name="org.ama.TestCase">
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="14261" started-at="2020-11-07T17:59:08Z" data-provider="value" finished-at="2020-11-07T17:59:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apple iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="10637" started-at="2020-11-07T17:59:23Z" data-provider="value" finished-at="2020-11-07T17:59:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mi phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="11363" started-at="2020-11-07T17:59:33Z" data-provider="value" finished-at="2020-11-07T17:59:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dell Laptop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="13670" started-at="2020-11-07T17:59:45Z" data-provider="value" finished-at="2020-11-07T17:59:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[drone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="12892" started-at="2020-11-07T17:59:58Z" data-provider="value" finished-at="2020-11-07T18:00:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nike shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="13989" started-at="2020-11-07T18:00:11Z" data-provider="value" finished-at="2020-11-07T18:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung LedTv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="14064" started-at="2020-11-07T18:00:25Z" data-provider="value" finished-at="2020-11-07T18:00:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Echo smart speaker]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String)[pri:0, instance:org.ama.TestCase@d8355a8]" name="method1" duration-ms="14174" started-at="2020-11-07T18:00:39Z" data-provider="value" finished-at="2020-11-07T18:00:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[earpods]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- org.ama.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
